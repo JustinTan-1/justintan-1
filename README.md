@@ -2,7 +2,7 @@
 
 ### CS @ UWaterloo
 
-![](https://komarev.com/ghpvc/?username=justintan-1&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=justintan-1&label=Profile%20views&color=0e75b6&style=flat) <br>
 **[https://justintan.tech/](https://justintan.tech/)**
 
 <p align="left">
